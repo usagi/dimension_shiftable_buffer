@@ -3,7 +3,7 @@ authors = ["USAGI.NETWORK / Usagi Ito <the@usagi.network>"]
 categories = ["data-structures"]
 description = "A dimension shiftable buffer"
 edition = "2018"
-keywords = ["dimension", "shiftable", "buffer", "valarray", "slice", "multi-dimensional"]
+keywords = ["dimension", "shiftable", "buffer", "valarray", "slice"]
 name = "dimension_shiftable_buffer"
 version = "1.0.0"
 
