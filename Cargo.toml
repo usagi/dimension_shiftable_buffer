@@ -6,6 +6,8 @@ edition = "2018"
 keywords = ["dimension", "shiftable", "buffer", "valarray", "slice"]
 name = "dimension_shiftable_buffer"
 version = "1.0.0"
+license = "MIT"
+repository = "https://github.com/usagi/dimension_shiftable_buffer"
 
 [features]
 csv = [] # + Csv trait feature; ::from_csv(), .to_csv(), .to_csv_dimensional
